@@ -1,2 +1,2 @@
 # Google-Marchandise-Store
-Decision Tree Algorithm 
+Decision Tree PRediciton model
