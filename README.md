@@ -1,2 +1,2 @@
 # Google-Marchandise-Store
-Decision Tree PRediciton model
+Decision Tree Prediction model
